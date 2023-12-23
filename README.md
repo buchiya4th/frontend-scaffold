@@ -12,6 +12,8 @@
   - Node.js: 20.10.0
   - yarn: 4.0.2
     - `.yarnrc.yml` で node_modules ディレクトリが生成されるように修正
+- .gitignore の更新
+  - デフォルトでは /.next, /node_modules 等を除外していないので更新
 
 ## Next.js の npx create-next-app@latest の README.md
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
