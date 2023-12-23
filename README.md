@@ -1,12 +1,12 @@
 ## 設定関連
 - Next.js の初期セットアップを以下で実行
-  -What is your project named? frontend-scaffold
-  -Would you like to use TypeScript? Yes
-  -Would you like to use ESLint? Yes
-  -Would you like to use Tailwind CSS? No
-  -Would you like to use `src/` directory? No
-  -Would you like to use App Router? (recommended) Yes
-  -Would you like to customize the default import alias (@/*)? No
+  - What is your project named? frontend-scaffold
+  - Would you like to use TypeScript? Yes
+  - Would you like to use ESLint? Yes
+  - Would you like to use Tailwind CSS? No
+  - Would you like to use `src/` directory? No
+  - Would you like to use App Router? (recommended) Yes
+  - Would you like to customize the default import alias (@/*)? No
 - Node.js 関連の実行環境
   - volta で管理
   - Node.js: 20.10.0
